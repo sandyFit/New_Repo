@@ -1,0 +1,19 @@
+
+Conectando nuestro repositorio local a GitHub
+
+Llegó finalmente el momento de conectar lo que estuvimos realizando localmente con GitHub. Para poder hacer esto, debemos tener:
+
+    Una cuenta en GitHub.
+    Un repositorio local que utilizaremos para poder conectarlo.
+
+Con el objetivo de poder practicar junto al video, tenemos que poseer un repositorio local configurado:
+
+    Debemos inicializar un repositorio. Para esto, ejecutemos git init en la carpeta que queramos conectar el repositorio.
+    Luego tenemos que indicar al repositorio nuestros usuario ejecutando dos comandos:
+
+    git config user.name “mi usuario” (escribimos nuestro nombre de usuario).
+    git config user.email “miCorreo@email.com” (escribimos nuestra dirección de correo).
+
+Si tenemos dudas de cómo ejecutarlos, podemos recurrir al video de la clase de git “Creando nuestro primer repositorio local”.
+
+Con estos pasos hechos, continuemos con el siguiente video.
