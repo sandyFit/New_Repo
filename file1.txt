@@ -17,3 +17,5 @@ Con el objetivo de poder practicar junto al video, tenemos que poseer un reposit
 Si tenemos dudas de cómo ejecutarlos, podemos recurrir al video de la clase de git “Creando nuestro primer repositorio local”.
 
 Con estos pasos hechos, continuemos con el siguiente video.
+
+Hola soy Sandra participante A.
